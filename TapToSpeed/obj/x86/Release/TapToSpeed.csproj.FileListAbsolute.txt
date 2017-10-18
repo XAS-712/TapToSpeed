@@ -1,0 +1,8 @@
+D:\Developing\C#\TapToSpeed\TapToSpeed\bin\Release\TapToSpeed.exe
+D:\Developing\C#\TapToSpeed\TapToSpeed\bin\Release\TapToSpeed.pdb
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.Form1.resources
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.Properties.Resources.resources
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.csproj.GenerateResource.Cache
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.exe
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.pdb
+D:\Developing\C#\TapToSpeed\TapToSpeed\obj\x86\Release\TapToSpeed.csprojResolveAssemblyReference.cache
